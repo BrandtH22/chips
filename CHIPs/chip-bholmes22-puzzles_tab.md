@@ -1,16 +1,16 @@
-CHIP Number   | < Creator must leave this blank. Editor will assign a number.>
-:-------------|:----
-Title         | Chia Client Puzzles Tab
-Description   | Proposal for a Puzzles tab to be added to the Chia Client. This tab enables users to interact with puzzle primitives (CATs, NFTs, DIDs) and allows community developers to integrate puzzles.
-Author        | Brandt Holmes (BrandtH22)
-Comments-URI  | < Creator must leave this blank. Editor will assign a URI.>
-Status        | < Creator must leave this blank. Editor will assign a status.>
-Category      | Process
-Sub-Category  | Tooling or Environment
-Created       | 2022-09-06
-Requires      | NA
-Replaces      | NA
-Superseded-By | NA
+| CHIP Number   | < Creator must leave this blank. Editor will assign a number.>                                                                                                                                |
+|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Title         | Chia Client Puzzles Tab                                                                                                                                                                       |
+| Description   | Proposal for a Puzzles tab to be added to the Chia Client. This tab enables users to interact with puzzle primitives (CATs, NFTs, DIDs) and allows community developers to integrate puzzles. |
+| Author        | Brandt Holmes (BrandtH22)                                                                                                                                                                     |
+| Comments-URI  | < Creator must leave this blank. Editor will assign a URI.>                                                                                                                                   |
+| Status        | < Creator must leave this blank. Editor will assign a status.>                                                                                                                                |
+| Category      | Process                                                                                                                                                                                       |
+| Sub-Category  | Tooling or Environment                                                                                                                                                                        |
+| Created       | 2022-09-06                                                                                                                                                                                    |
+| Requires      | NA                                                                                                                                                                                            |
+| Replaces      | NA                                                                                                                                                                                            |
+| Superseded-By | NA                                                                                                                                                                                            |
 
 ## Abstract
 Proposal for a Puzzles tab to be added to the Chia Client. This tab enables users to interact with puzzle primitives (CATs, NFTs, DIDs) and allows community developers to integrate puzzles (auto-split, gaming, messaging, etc).
